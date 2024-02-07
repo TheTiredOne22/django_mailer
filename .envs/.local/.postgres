@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=django_mailer
+POSTGRES_USER=dTYiSjatMXewgCuiwKLRtZQCneoucgEf
+POSTGRES_PASSWORD=9VDManGZq1X8yP7dD0ZBYzIxhhL5zx7OqpAvPCctfKXtOS0W8l8hBf1nQbWXqci8
